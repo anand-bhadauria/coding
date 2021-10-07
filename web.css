@@ -1,0 +1,9 @@
+.wrapper{display:flex;
+height: 100vh;
+width: 100%;
+flex-direction:column ; }
+.car1{flex:2; background-color:blue ;}
+.car2{flex:2; background-color:black}
+.car3{flex:2; background-color:royalblue}
+.car4{flex:2; background-color:turquoise}
+.car5{flex:2; background-color:green}
